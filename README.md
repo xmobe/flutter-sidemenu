@@ -37,7 +37,8 @@ flutter run
 
 Want your Flutter Tabs Boilerplate, [go here][https://github.com/xmobe-com/flutter-tabs].
 
-If you like it **Star it**, **Fork it** 
+If you like it **Star it**, **Fork it**
+
 Want to **Donate** or **Buy me a coffee** go here: <a href="https://paypal.me/lequanganh"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
 
 [https://github.com/xmobe-com/flutter-tabs]: https://github.com/xmobe-com/flutter-tabs
